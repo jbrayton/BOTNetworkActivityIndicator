@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		C2C595A21A5C5EA600953DA8 /* BOTFramework.h in Headers */ = {isa = PBXBuildFile; fileRef = C2C595A11A5C5EA600953DA8 /* BOTFramework.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		C2C595A21A5C5EA600953DA8 /* BOTFramework.h in Headers */ = {isa = PBXBuildFile; fileRef = C2C595A11A5C5EA600953DA8 /* BOTFramework.h */; };
 		C2C595A81A5C5EA600953DA8 /* BOTNetworkActivityIndicator.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C2C5959C1A5C5EA600953DA8 /* BOTNetworkActivityIndicator.framework */; };
 		C2C595AF1A5C5EA600953DA8 /* BOTNetworkActivityIndicatorTests.m in Sources */ = {isa = PBXBuildFile; fileRef = C2C595AE1A5C5EA600953DA8 /* BOTNetworkActivityIndicatorTests.m */; };
 		C2C595BA1A5C5F5F00953DA8 /* BOTNetworkActivityIndicator.h in Headers */ = {isa = PBXBuildFile; fileRef = C2C595B81A5C5F5F00953DA8 /* BOTNetworkActivityIndicator.h */; settings = {ATTRIBUTES = (Public, ); }; };
